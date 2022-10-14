@@ -1,0 +1,11 @@
+{
+    "datadiri":
+    [
+        {
+            "nama":"Yusron","umur":"21","alamat":"Bandung","owner":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlcyIsImlhdCI6MTY2NTczMzYyMH0.9gfeyyle44f2cyOPJNK0Xqy2LhpTF9lteomCiZg5nXU"
+        },
+        {
+            "nama":"Fauzan","umur":"22","alamat":"Jakarta","owner":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6IlRlcyIsImlhdCI6MTY2NTczOTM0MH0.1Emcgg4KAOsyG0zBWN6wC1uqRRr5IwWbHbp2-jKokPQ"
+        }
+    ]
+}
